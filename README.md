@@ -1,4 +1,5 @@
-# ZeBRA : {Ze}ro data {B}ased {R}epeated Bit Flip {A}ttack. 
+# ZeBRA
+**ZeBRA** : Precisely Destroying Neural Networks with **Ze**ro data **B**ased **R**epeated Bit Flip **A**ttack 
 
 ## This repository contains the code and data of the following paper accepeted by BMVC 2021
 
