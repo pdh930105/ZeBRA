@@ -1,0 +1,2 @@
+module idx,bit-flip idx,module name,weight idx,weight before attack,weight after attack,validation accuracy,accuracy drop,trial seed
+9,1,features.1.conv.0.0,[4 0 2 1],-102.0,26.0,0.122,70.998,5
